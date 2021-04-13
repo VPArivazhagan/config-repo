@@ -1,5 +1,5 @@
 acerest:
   url: http://acerest.mobilecms.com:9091/
-  username: prodadmin
-  password: prodadmin
+  username: prodadmin-mod
+  password: prodadmin-mod
 
